@@ -1,4 +1,4 @@
-# KivyMD_Login_Register_App_for_Google_Sheets
+# Login_Register_App_for_Google_Sheets
 App created for editing Google Sheets tables by using KivyMD
 
 KivyMD_registration_login_google_sheets_app.py - главный файл проекта
