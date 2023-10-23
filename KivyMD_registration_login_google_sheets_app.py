@@ -740,7 +740,7 @@ class EditingForm(Screen):
         if user_data[0][3] != "0":
             FirstName = self.ids.FirstName.text
             FamilyName = self.ids.FamilyName.text
-            FathersName = self.ids.FamilyName.text
+            FathersName = self.ids.FathersName.text
 
         if user_data[0][4] != "0":
             global birthday_global
