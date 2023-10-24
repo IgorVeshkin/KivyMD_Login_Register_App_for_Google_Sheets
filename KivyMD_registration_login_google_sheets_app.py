@@ -39,7 +39,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 user_data = []
 
-# Интерфейс, формируемы фреймворком Kivy можно написать на своем собственном языке
+# Интерфейс, формируемый фреймворком Kivy можно написать на своем собственном языке
 
 KV = '''
 WindowsManager:
